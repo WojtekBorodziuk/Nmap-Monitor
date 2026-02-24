@@ -1,0 +1,4 @@
+previous_scan.json
+.venv/
+venv/
+__pycache__/
