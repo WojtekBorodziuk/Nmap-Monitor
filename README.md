@@ -1,0 +1,1 @@
+Prosty skrypt do skanowania adresów oraz porównywania ich.

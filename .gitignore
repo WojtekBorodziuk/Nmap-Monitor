@@ -2,3 +2,4 @@ previous_scan.json
 .venv/
 venv/
 __pycache__/
+auditor.log/
